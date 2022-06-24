@@ -77,8 +77,8 @@ def cropping(img):
     return cropped_img
 
 
-img = cv2.imread("../test_image/a.jpg")
+# img = cv2.imread("../test_image/a.jpg")
 # cv2.imwrite("test_image/a_crop.jpg",cropping(img))
-cv2.imshow("image", cropping(img))
-cv2.waitKey(0)
-cv2.destroyAllWindows()
+# cv2.imshow("image", cropping(img))
+# cv2.waitKey(0)
+# cv2.destroyAllWindows()
