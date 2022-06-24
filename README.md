@@ -5,3 +5,4 @@ Vietnamese ID information detection
 - text_reading_model --> text reading/
 - EffNetB2-380-200-0927-RSM-first-60-0.89661.h5 --> id_detector/ </br>
 Test code example at ocr_processing.py file
+- To get model contact email: hoang98long@gmail.com
